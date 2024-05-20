@@ -1,0 +1,33 @@
+### NSFR
+gymnasium
+#torch==1.12.1
+lark-parser
+scikit-learn
+filelock
+pyglet
+torchsummary
+setuptools>=58.5.3
+tensorboard
+numpy
+#torchvision
+tqdm>=4.41.0
+matplotlib>=3.2.2
+opencv-python>=4.1.2
+Pillow
+PyYAML>=5.3.1
+scipy>=1.4.1
+seaborn
+pandas
+cmake
+rtpt
+wandb
+pyglet
+###qt
+lark
+ocatari
+ale-py
+atari_py
+gym
+gym3
+autorom[accept-rom-license]
+gymnasium[atari, accept-rom-license]
